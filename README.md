@@ -68,7 +68,9 @@ To view and run the simulation, download the `.pkt` file and open it using **Cis
 [View SafeStayIoT Files](YOUR_SAFESTAY_REPOSITORY_LINK)
 
 ## Project Structure
-CEEL_FINAL_PROJECT/
+
+```text
+My-Portfolio/
 │
 ├── index.html
 ├── style.css
@@ -84,6 +86,7 @@ CEEL_FINAL_PROJECT/
 └── Projects/
     └── SafeStayIoT/
         └── SafeStayIoT.pkt
+```
 
 ## How to Run the Portfolio
 1. Clone or download this repository.
