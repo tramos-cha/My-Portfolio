@@ -65,10 +65,12 @@ The Cisco Packet Tracer simulation file (`.pkt`) is included in the repository u
 To view and run the simulation, download the `.pkt` file and open it using **Cisco Packet Tracer**.
 
 **Project Link:**  
-[View SafeStayIoT Files](YOUR_SAFESTAY_REPOSITORY_LINK)
+[View SafeStayIoT Files][(https://github.com/tramos-cha/My-Portfolio.git)
 
 ## Project Structure
-CEEL_FINAL_PROJECT/
+
+```text
+My-Portfolio/
 │
 ├── index.html
 ├── style.css
@@ -84,6 +86,7 @@ CEEL_FINAL_PROJECT/
 └── Projects/
     └── SafeStayIoT/
         └── SafeStayIoT.pkt
+```
 
 ## How to Run the Portfolio
 1. Clone or download this repository.
