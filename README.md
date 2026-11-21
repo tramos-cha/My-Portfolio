@@ -90,7 +90,7 @@ My-Portfolio/
 
 ## How to Run the Portfolio
 1. Clone or download this repository.
-   git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+   git clone (https://github.com/tramos-cha/My-Portfolio.git)
 
 2. Open the downloaded project folder.
 3. Locate the `index.html` file.
